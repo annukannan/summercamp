@@ -1,5 +1,5 @@
-# Summer Camp
-Summer Camp Registration Portal
+# Summer Camp Registration Portal
+
 Today Camps are organized in different locations, countries for families to register their kids during school breaks like Spring Break, Winter break and Long Summer breaks. This system will allows parents to search the list of locations where camps are offered, what courses are offered and pick the right choice to register their kids, make payments.  
 
 High Level Architecture of the System
